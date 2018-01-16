@@ -26,3 +26,4 @@ var stringifyJSON = function(obj) {
   }
   return '' + obj;
 };
+  
